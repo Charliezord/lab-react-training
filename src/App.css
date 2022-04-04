@@ -16,3 +16,9 @@
 .idCard img {
   margin: 4vh;
 }
+
+.greetingBox {
+  border: 2px solid black;
+  margin: 5vh;
+  padding: 2vh;
+}
